@@ -1,0 +1,13 @@
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\bin\Debug\cripter.exe
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\bin\Debug\cripter.pdb
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\bin\Debug\cripter.xml
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.Form1.resources
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.Resources.resources
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.vbproj.GenerateResource.Cache
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.exe
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.xml
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.pdb
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\bin\Debug\cripter.exe.manifest
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\bin\Debug\cripter.application
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.exe.manifest
+C:\Users\Utente-XB\documents\visual studio 2010\Projects\cripter\cripter\obj\x86\Debug\cripter.application
